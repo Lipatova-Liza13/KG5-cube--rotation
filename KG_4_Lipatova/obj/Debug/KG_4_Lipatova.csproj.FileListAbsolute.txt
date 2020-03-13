@@ -1,0 +1,9 @@
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.Form1.resources
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.Properties.Resources.resources
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.csproj.GenerateResource.cache
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\bin\Debug\KG_4_Lipatova.exe.config
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\bin\Debug\KG_4_Lipatova.exe
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\bin\Debug\KG_4_Lipatova.pdb
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.exe
+C:\Users\Liza\source\repos\KG_4_Lipatova\KG_4_Lipatova\obj\Debug\KG_4_Lipatova.pdb
